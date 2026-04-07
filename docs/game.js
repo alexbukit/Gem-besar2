@@ -11,6 +11,8 @@ const MAX_GAMES = 4;
 
 let currentPlayer = "Host"; // "Host" or "Her"
 
+let password = "redshift_password"
+
 
 function getPlaybackSpeed() {
   if (level < 5) return 600;
