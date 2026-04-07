@@ -13,6 +13,8 @@ let currentPlayer = "Host"; // "Host" or "Her"
 
 let password = "redshift_password"
 
+let test = "hi"
+
 
 function getPlaybackSpeed() {
   if (level < 5) return 600;
